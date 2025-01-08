@@ -74,6 +74,9 @@ Additionally, BYJU'S addresses the needs of multitaskers—students with limited
 3. **CLASSROOM BUGS :** They prefer studying in a physical classroomenvironment with other students to unleash their competitive spirit. Theyare highly sociable students who wants to interact with other students.Accessibility to quality teachers and resources is not their primaryconcern. They are ready to spend time on travelling to physicalclassroom.
 4. **PRIVILDGED :** They or their parents have high spending power tofulfil the requirements of additional resources. Students in this segmentwant the best after school support available in the market.
 
+- Reference
+  https://www.scribd.com/document/484016294/STP-Byjus
+  
 ## Perceptual Map 
 - **BYJU'S** is positioned towards the bottom right, suggesting a premium, specialized offering.
 - **Udemy** and Unacademy seem to be positioned as more general, value-oriented platforms.
