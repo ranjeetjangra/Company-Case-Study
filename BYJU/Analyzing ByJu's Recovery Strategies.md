@@ -4,9 +4,9 @@ BYJU's, a leading Indian Edtech company, has recently encountered financial diff
 ## Company background
 Byju's is an Indian multinational educational technology company founded in 2011 by Byju Raveendran. It offers online and offline courses for students of various ages, covering a wide range of subjects from K-12 to competitive exams. Byju's has grown rapidly in recent years, becoming one of the most valuable ed-tech companies globally. It has acquired several educational companies, including Osmo, WhiteHat Jr., and Aakash Educational Services, expanding its product offerings and market reach. BYJU's aquired 3 major compititors within 3yrs.
 
-Osmo: Acquired in January 2019 for $120 million.
-WhiteHat Jr.: Acquired in July 2020 for $300 million.
-Aakash Educational Services: Acquired in April 2021 for $1 billion.
+- Osmo: Acquired in January 2019 for $120 million.
+- WhiteHat Jr.: Acquired in July 2020 for $300 million.
+- Aakash Educational Services: Acquired in April 2021 for $1 billion.
 
 - Reference
   https://www.ft.com/content/9ec4a461-8f03-42c3-807f-e07774b302a7
@@ -36,8 +36,8 @@ In India, the online education market was valued at INR 361.68 billion in 2022 a
 Despite the promising growth, the industry faces challenges, including digital access inequality and high competition among service providers. Nonetheless, the increasing acceptance of subscription-based and freemium models continues to drive consumer adoption globally.
 
 **Reference:**
-Ed-tech market Report https://www.arizton.com/market-reports/edtech-market Accessed 8th Jan 2025
-Ed-tech market https://market.us/report/edtech-market/ Accessed 8th Jan 2025
+- Ed-tech market Report https://www.arizton.com/market-reports/edtech-market Accessed 8th Jan 2025
+- Ed-tech market https://market.us/report/edtech-market/ Accessed 8th Jan 2025
 
 ## Govt. Initiatives
 The Indian government has launched several initiatives to promote the EdTech industry, recognizing its potential to transform education and bridge the digital divide. Notable initiatives include:
@@ -57,8 +57,8 @@ The Indian government has launched several initiatives to promote the EdTech ind
 - **Bharat EdTech Initiative (BEI) (2021):** Launched in August 2021, BEI is a collaborative effort bringing together on-ground community organizations and high-quality EdTech solution providers to promote at-home EdTech-based learning for students from underserved communities. 
 
 - Reference
-  https://globaltalex.com/post_details/%20India%E2%80%99s%20EdTech%20Revolution%3A%20A%20Global%20Leader%20In%20The%20Making
-  https://en.wikipedia.org/wiki/Digital_India
+- https://globaltalex.com/post_details/%20India%E2%80%99s%20EdTech%20Revolution%3A%20A%20Global%20Leader%20In%20The%20Making Accessed 8th Jan 2025
+- https://en.wikipedia.org/wiki/Digital_India Accessed 8th Jan 2025
 
 ## Target Customer Segement
 BYJU'S primarily targets K-12 students, offering personalized learning programs to enhance academic performance. Their services cater to students aged 4 to 18 years, covering various subjects and competitive exam preparations. 
@@ -66,7 +66,7 @@ The company also focuses on parents seeking quality educational resources for th
 Additionally, BYJU'S addresses the needs of multitaskers—students with limited time who prefer flexible, self-paced learning solutions—and privileged students who can afford high-end educational products.
 
 - Reference
-  https://canvasbusinessmodel.com/blogs/target-market/byjus-target-market
+- https://canvasbusinessmodel.com/blogs/target-market/byjus-target-market
 
 ## Buyers Persona's
 1. **UNDERPRIVILIDGED OPPORTUNISTS** : They don’t have accessto quality teachers & resources. Majority of this segment lives in Ruralareas. Spending capacities of the parents of this segment is limited
@@ -82,13 +82,14 @@ Additionally, BYJU'S addresses the needs of multitaskers—students with limited
 - **Udemy** and Unacademy seem to be positioned as more general, value-oriented platforms.
 - **Toppr** appears to be positioned somewhere in between, offering a balance of specialization and affordability.
 
-it appears the vertical axis might represent "Premium vs. Value" or "High-end vs. Budget-friendly"
-The horizontal axis could be "Specialization vs. Generalization" or "Niche vs. Broad Audience".
+it appears the vertical axis might represent "Recorded Classes vs. One to One Interactions"
+The horizontal axis could be "Value vs. High Premium"
  
 ![BYJU's Perceptual Map](BYJUs_Perceptual_Map.JPG)
 
 - Reference
   https://www.scribd.com/document/484016294/STP-Byjus
+
 ## Product Offerings and Product Teardown
 
 ## Pricing
