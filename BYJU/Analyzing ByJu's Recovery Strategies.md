@@ -77,18 +77,6 @@ Additionally, BYJU'S addresses the needs of multitaskers—students with limited
 - Reference
   https://www.scribd.com/document/484016294/STP-Byjus
 
-## Perceptual Map 
-- **BYJU'S** is positioned towards the bottom right, suggesting a premium, specialized offering.
-- **Udemy** and Unacademy seem to be positioned as more general, value-oriented platforms.
-- **Toppr** appears to be positioned somewhere in between, offering a balance of specialization and affordability.
-
-it appears the vertical axis might represent "Recorded Classes vs. One to One Interactions"
-The horizontal axis could be "Value vs. High Premium"
- 
-![BYJU's Perceptual Map](BYJUs_Perceptual_Map.JPG)
-
-- Reference
-  https://www.scribd.com/document/484016294/STP-Byjus
 
 ## Product Offerings and Product Teardown
 
@@ -103,6 +91,19 @@ Few features of BYJU’s are :
 2. Application and stimulation games to guide experiential learning.
 3. Usage of high quality videos to assist student’s visualisation.
 4. One to one session for students.
+
+## Perceptual Map 
+- **BYJU'S** is positioned towards the bottom right, suggesting a premium, specialized offering.
+- **Udemy** and Unacademy seem to be positioned as more general, value-oriented platforms.
+- **Toppr** appears to be positioned somewhere in between, offering a balance of specialization and affordability.
+
+it appears the vertical axis might represent "Recorded Classes vs. One to One Interactions"
+The horizontal axis could be "Value vs. High Premium"
+ 
+![BYJU's Perceptual Map](BYJUs_Perceptual_Map.JPG)
+
+- Reference
+  https://www.scribd.com/document/484016294/STP-Byjus
 
 ## Market Analysis
 
