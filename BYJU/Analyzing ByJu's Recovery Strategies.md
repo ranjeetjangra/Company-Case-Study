@@ -76,7 +76,7 @@ Additionally, BYJU'S addresses the needs of multitaskers—students with limited
 
 - Reference
   https://www.scribd.com/document/484016294/STP-Byjus
-  
+
 ## Perceptual Map 
 - **BYJU'S** is positioned towards the bottom right, suggesting a premium, specialized offering.
 - **Udemy** and Unacademy seem to be positioned as more general, value-oriented platforms.
@@ -84,9 +84,11 @@ Additionally, BYJU'S addresses the needs of multitaskers—students with limited
 
 it appears the vertical axis might represent "Premium vs. Value" or "High-end vs. Budget-friendly"
 The horizontal axis could be "Specialization vs. Generalization" or "Niche vs. Broad Audience".
+ 
+![BYJU's Perceptual Map](BYJUs_Perceptual_Map.JPG)
 
-BYJU's Perceptual Map 
-
+- Reference
+  https://www.scribd.com/document/484016294/STP-Byjus
 ## Product Offerings and Product Teardown
 
 ## Pricing
