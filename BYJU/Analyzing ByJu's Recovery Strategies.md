@@ -8,8 +8,14 @@ Byju's is an Indian multinational educational technology company founded in 2011
 - WhiteHat Jr.: Acquired in July 2020 for $300 million.
 - Aakash Educational Services: Acquired in April 2021 for $1 billion.
 
+It was founded in 2011 by Byju Raveendran and Divya Gokulnath. As of October 2024, various media outlets reported that Byju's valuation has now plummeted to zero, down from its peak valuation of $22 billion in 2022.In April 2023, the company claimed it had over 150 million registered students
+Byju's app was developed by Think and Learn Pvt. Ltd, a company which was established by Byju Raveendran, Divya Gokulnath and a group of students in 2011.Byju, an engineer by profession, was coaching students in mathematics since 2006.
+
+
 - Reference
   https://www.ft.com/content/9ec4a461-8f03-42c3-807f-e07774b302a7
+
+## Shareholdings
 
 ## Business Model Overview
 
