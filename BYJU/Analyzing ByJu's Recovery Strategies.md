@@ -16,6 +16,12 @@ Byju's app was developed by Think and Learn Pvt. Ltd, a company which was establ
   https://www.ft.com/content/9ec4a461-8f03-42c3-807f-e07774b302a7
 
 ## Shareholdings
+As of July 2023, Byju Raveendran, the founder of BYJU'S, held a 17.1% stake in the company, while co-founder Divya Gokulnath owned 3.2%.The majority of BYJU'S shares were held by institutional investors, with funds collectively owning 69.86% of the company
+However, in June 2024, Prosus wrote off its entire investment in BYJU'S, citing a significant decrease in value for equity investors
+
+Reference-
+https://www.statista.com/statistics/1413587/byju-s-shareholding/?
+https://www.reuters.com/world/india/general-atlantic-prosus-ask-india-top-court-hear-their-concerns-byjus-insolvency-2024-08-27/
 
 ## Business Model Overview
 
@@ -77,7 +83,7 @@ Additionally, BYJU'S addresses the needs of multitaskers—students with limited
 ## Buyers Persona's
 1. **UNDERPRIVILIDGED OPPORTUNISTS** : They don’t have accessto quality teachers & resources. Majority of this segment lives in Ruralareas. Spending capacities of the parents of this segment is limited
 2. **MULTITASKERS**: They pick up studies/extra subjects along withother tasks(job) or their school. Time is essence for them. They want tolearn at their own convenience and pace. They or their parents have highspending power.
-3. **CLASSROOM BUGS :** They prefer studying in a physical classroomenvironment with other students to unleash their competitive spirit. Theyare highly sociable students who wants to interact with other students.Accessibility to quality teachers and resources is not their primaryconcern. They are ready to spend time on travelling to physicalclassroom.
+3. **CLASSROOM BUGS :** They prefer studying in a physical classroomenvironment with other students to unleash their competitive spirit. They are highly sociable students who wants to interact with other students.Accessibility to quality teachers and resources is not their primaryconcern. They are ready to spend time on travelling to physicalclassroom.
 4. **PRIVILDGED :** They or their parents have high spending power tofulfil the requirements of additional resources. Students in this segmentwant the best after school support available in the market.
 
 - Reference
@@ -85,8 +91,23 @@ Additionally, BYJU'S addresses the needs of multitaskers—students with limited
 
 
 ## Product Offerings and Product Teardown
+**BYJU'S Product Offerings:**
+
+1. **BYJU'S The Learning App:** 
+This flagship product caters to K-12 students (Kindergarten to 12th Grade) across various subjects like Mathematics, Science, Social Studies, and English. It offers interactive video lessons, personalized learning paths, adaptive assessments, and progress tracking.   
+2. **BYJU'S Exam Prep:** 
+This platform focuses on competitive exams like JEE, NEET, CAT, IAS, and others. It provides comprehensive study material, live classes, mock tests, and expert guidance.   
+3. **BYJU'S Epic:** 
+This platform is designed for children aged 2-12 and offers a vast library of books, audiobooks, and interactive learning videos.   
+4. **BYJU'S Classes:**
+This segment offers offline tutoring services at learning centers across India.   
+5. **WhiteHat Jr.:** 
+Acquired by BYJU'S, this platform focuses on teaching coding skills to children aged 6-14.
+
+   
 
 ## Pricing
+
 
 ## Positioning
 Positioning is the place that a brand occupies in the minds of the customers andhow it is distinguished from the products of the competitors and different fromthe concept of brand awareness. BYJU’s have positioned their product smartly.They have been keeping up with the dynamic environment in education industryand introducing more differentiated features to distinguish itself from itscompetitors.
@@ -117,9 +138,42 @@ The horizontal axis could be "Value vs. High Premium"
 
 ## Consumer Behaviour
 
-## Company Challenges
-
 ## SWOT Analysis
+
+**Strengths:**
+
+1. Engaging Content: BYJU'S is known for its high-quality, animated video lessons that make learning fun and interactive.   
+2. Personalized Learning: The platform adapts to each student's pace and learning style, providing customized learning paths and recommendations.   
+3. Strong Brand Recognition: BYJU'S has established itself as a leading EdTech brand in India with extensive marketing and celebrity endorsements.
+4. Technology-Driven Approach: The platform leverages technology like AI and machine learning to personalize learning and track student progress.   
+5. Large User Base: BYJU'S boasts a massive user base, providing valuable data for product improvement and personalized learning.   
+
+**Weaknesses:**
+
+1. High Pricing: BYJU'S subscription plans can be expensive, making them inaccessible to many families.
+2. Sales and Marketing Tactics: Aggressive sales tactics and high-pressure sales calls have drawn criticism from some customers.   
+3. Customer Service Issues: Some users have reported issues with customer service, including difficulty in canceling subscriptions.
+4. Reliance on Technology: While technology is a key strength, over-reliance on it can sometimes lead to a less personalized learning experience compared to traditional tutoring.
+5. Competition: The EdTech market is highly competitive, with numerous players offering similar products and services.   
+
+**Opportunities:**
+
+1. Expanding Global Reach: While primarily focused on India, BYJU'S has the potential to expand its reach to other international markets.
+2. Developing New Products: Exploring new product lines like professional courses, upskilling programs, and corporate training.
+3. Improving Customer Experience: Enhancing customer service, simplifying subscription processes, and addressing customer concerns.
+4. Leveraging Technology: Further leveraging AI and machine learning for personalized learning, intelligent tutoring, and predictive analytics.
+5. Building a Stronger Brand: Continuing to build a strong brand image through innovative marketing campaigns and community engagement.
+Threats:
+
+**Increasing Competition:**
+1. The EdTech market is constantly evolving, with new players and innovative technologies emerging.
+2. Regulatory Challenges: Government regulations and policies related to online education and data privacy could pose challenges.
+3. Economic Downturn: Economic downturns can impact consumer spending, potentially affecting subscription revenue.
+4. Changing Consumer Behavior: Shifts in consumer behavior, such as preferences for shorter-term learning options, could impact BYJU'S long-term success.
+
+-References
+
+https://globalventuring.com/corporate/byjus-buys-epic-for-500m/
 
 ## Data Analysis
 
