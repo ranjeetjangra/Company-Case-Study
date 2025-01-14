@@ -139,6 +139,36 @@ The horizontal axis could be "Value vs. High Premium"
 
 ## Consumer Behaviour
 
+**Consumer Expectations**
+
+- Personalization: Tailored learning paths, AI-based recommendations.
+- Convenience: On-demand, self-paced learning.
+- Affordability: Value for money, especially in price-sensitive markets.
+- Gamification: Engaging elements to make learning enjoyable.
+- Credentialing: Certifications and badges that hold market value.
+- Support: Availability of tutors or mentors for doubt resolution.
+
+**Buying Decision Process**
+- Problem Recognition: Need for upskilling, career transition, or academic support.
+- Information Search: Comparing platforms, reading reviews, exploring free trials.
+- Evaluation of Alternatives: Assessing content quality, pricing, and platform usability.
+- Purchase Decision: Based on brand trust, affordability, and peer recommendations.
+- Post-Purchase Behavior: User satisfaction leads to subscriptions or referrals.
+
+**Trends Impacting Consumer Behavior**
+1. Shift to Online Learning : Accelerated by the pandemic, learners prefer virtual over physical classes.
+2. Subscription-Based Models : Monthly or yearly plans dominate consumer choices due to cost efficiency.
+3. Gamification and Interactivity : Users prefer engaging formats like quizzes, challenges, and leaderboards.
+4. Mobile-First Approach : A large portion of users, especially in developing nations, access content via mobile devices.
+5. Social Proof: Testimonials, peer reviews, and influencer endorsements heavily influence decisions.
+6. Data-Driven Insights: Platforms using AI to offer personalized experiences see higher adoption rates.
+
+**Challenges in Consumer Behavior**
+- Low Engagement Rates: Learners often abandon courses midway.
+- Affordability Concerns: High costs deter some segments.
+- Digital Divide: Limited access in rural and underprivileged areas.
+- Skepticism: Doubts about course efficacy and credentials' value.
+
 ## SWOT Analysis
 
 **Strengths:**
@@ -166,7 +196,7 @@ The horizontal axis could be "Value vs. High Premium"
 5. Building a Stronger Brand: Continuing to build a strong brand image through innovative marketing campaigns and community engagement.
 Threats:
 
-**Increasing Competition:**
+**Threats**
 1. The EdTech market is constantly evolving, with new players and innovative technologies emerging.
 2. Regulatory Challenges: Government regulations and policies related to online education and data privacy could pose challenges.
 3. Economic Downturn: Economic downturns can impact consumer spending, potentially affecting subscription revenue.
@@ -178,10 +208,17 @@ https://globalventuring.com/corporate/byjus-buys-epic-for-500m/
 
 ## Data Analysis
 
+## Bancrupcy of U.S arm
+
 ## Strategy Recommendations
 
 ## Key Takeaways
 
-## References
+**key takeaways for investors from byjus downfall**
+1. **Focus on Quality:** Make sure the educational product or service actually helps students learn better. Don't just get excited about fast growth through buying other companies.
+2. **Do Your Homework:** Carefully check the company's finances and how it's run. Don't be fooled by big promises or a popular leader.
+3. **No Shortcuts:** Technology alone can't fix education problems. It takes time and effort to make real improvements.
+4. **Slow and Steady Wins the Race:** It's better for a company to grow slowly and do things the right way than to grow too fast and make mistakes.
+5. **Prove It Works:** Make sure the product or service has been proven to help students achieve better results. Don't just rely on claims of making a positive impact.
 
 ## Appendix
