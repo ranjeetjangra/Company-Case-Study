@@ -104,10 +104,11 @@ This segment offers offline tutoring services at learning centers across India. 
 5. **WhiteHat Jr.:** 
 Acquired by BYJU'S, this platform focuses on teaching coding skills to children aged 6-14.
 
-   
-
 ## Pricing
-
+Pricing of various products after 30% reduced pricing.
+BYJU'S The Learning App: The annual subscription is now priced at ₹12,000 (inclusive of taxes). 
+BYJU'S Classes: A full year of classes is available for ₹24,000. 
+BYJU'S Tuition Centres (BTC): Annual enrollment is set at ₹36,000
 
 ## Positioning
 Positioning is the place that a brand occupies in the minds of the customers andhow it is distinguished from the products of the competitors and different fromthe concept of brand awareness. BYJU’s have positioned their product smartly.They have been keeping up with the dynamic environment in education industryand introducing more differentiated features to distinguish itself from itscompetitors.
