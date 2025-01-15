@@ -106,9 +106,9 @@ Acquired by BYJU'S, this platform focuses on teaching coding skills to children 
 
 ## Pricing
 Pricing of various products after 30% reduced pricing.
-BYJU'S The Learning App: The annual subscription is now priced at ₹12,000 (inclusive of taxes). 
-BYJU'S Classes: A full year of classes is available for ₹24,000. 
-BYJU'S Tuition Centres (BTC): Annual enrollment is set at ₹36,000
+- BYJU'S The Learning App: The annual subscription is now priced at ₹12,000 (inclusive of taxes). 
+- BYJU'S Classes: A full year of classes is available for ₹24,000. 
+- BYJU'S Tuition Centres (BTC): Annual enrollment is set at ₹36,000
 
 ## Positioning
 Positioning is the place that a brand occupies in the minds of the customers andhow it is distinguished from the products of the competitors and different fromthe concept of brand awareness. BYJU’s have positioned their product smartly.They have been keeping up with the dynamic environment in education industryand introducing more differentiated features to distinguish itself from itscompetitors.
@@ -133,10 +133,17 @@ The horizontal axis could be "Value vs. High Premium"
 - Reference
   https://www.scribd.com/document/484016294/STP-Byjus
 
-## Market Analysis
-
 ## Competative Landscape
 
+Byju's key rivals in the Indian ed-tech market:   
+
+- **Unacademy:** A major player with a strong focus on competitive exams like JEE, NEET, and UPSC. They offer live classes, test series, and personalized learning paths.   
+- **Vedantu:** Known for its LIVE interactive classes, Vedantu provides personalized learning experiences with features like doubt-solving sessions and one-on-one tutoring.   
+- **Toppr:** Offers a comprehensive platform with adaptive learning, personalized study plans, and a wide range of courses for various exams.
+- **Extramarks:** Provides a vast library of educational content, including NCERT solutions, practice papers, and interactive simulations.   
+- **Khan Academy:** A non-profit organization offering free educational resources, including videos, exercises, and articles, covering a wide range of subjects.
+
+   
 ## Consumer Behaviour
 
 **Consumer Expectations**
@@ -203,16 +210,50 @@ Threats:
 4. Changing Consumer Behavior: Shifts in consumer behavior, such as preferences for shorter-term learning options, could impact BYJU'S long-term success.
 
 -References
-
 https://globalventuring.com/corporate/byjus-buys-epic-for-500m/
 
-## Data Analysis
 
 ## Bancrupcy of U.S arm
 
+**Loss of Control:** Byju's has lost control of its US arm, Byju's Alpha Inc., due to court ruling that upheld a default on a $1.2 billion loan. This loss of control impacts the future of several acquired companies that were part of the US subsidiary.   
+
+**Potential Impact on Acquired Companies:** The fate of acquired companies like Epic and Great Learning, which were valuable assets within the US subsidiary, is uncertain. They could potentially be sold off by lenders to recoup losses.   
+
+**Ongoing Legal Battles:** Byju's is facing ongoing legal challenges, including a bankruptcy filing by its US arm. The resolution of these legal issues will significantly impact the future of the acquired companies.
+
+-Reference:
+https://www.financialexpress.com/jobs-career/education-byjus-loses-control-of-us-arm-as-delaware-court-upholds-default-ruling-3620836/
+
 ## Strategy Recommendations
+CEO, Byju Raveendran, has resumed daily operational responsibilities following the resignation of Arjun Mohan who did restructuring of BYJUs and layedoff 4000 employees. This suggests that Raveendran will be taking on the role of Group CEO once again and responsible for overseeing the strategic direction, operations, and performance of a group of companies under BYJU's.
+
+Here are some key business strategy recommendations:
+
+**Product Strategy:**
+
+1. **Enhance Core Product:** Double down on the flagship learning app, ensuring it remains engaging and effective.
+2. **Personalized Learning:** Leverage AI and data analytics to provide tailored learning experiences for each student.
+3. **Gamification:** Integrate gamified elements to make learning more interactive and fun.
+
+**Financial Strategy:**
+
+1. **Cost Optimization:** Streamline operations and reduce unnecessary expenses.
+2. **Sustainable Growth:** Prioritize profitability over rapid expansion.
+3. **Diversify Revenue Streams:** Explore new revenue models, such as B2B partnerships or premium content offerings.
+
+**Marketing Strategy:**
+
+1. **Focus on Customer Value:** Emphasize the long-term benefits of Byju's products.
+2. **Word-of-Mouth Marketing:** Encourage satisfied customers to spread the word.
+3. **Targeted Advertising:** Reach the right audience with relevant messaging.
 
 ## Key Takeaways
+
+**several key takeaways for founders:**
+1. **Prioritize Unit Economics and Sustainability:** While rapid growth is tempting, it's crucial to ensure your business model is sustainable in the long run. Byju's aggressive expansion and acquisition strategy ultimately proved unsustainable, leading to financial difficulties.
+2. **Focus on Customer Value and Retention:** Byju's faced criticism for its high-pressure sales tactics and customer acquisition costs. Building a loyal customer base through product value and customer service is more important than short-term gains.
+3. **Transparency and Governance:** Maintaining transparency with investors and stakeholders is essential. Byju's faced scrutiny over its financial reporting and governance practices, which eroded trust and contributed to its downfall.
+4. **Cautious Expansion:** While expansion can be a growth driver, it should be carefully planned and executed. Byju's rapid acquisition spree proved to be a costly mistake, as many of the acquired companies failed to integrate successfully.
 
 **key takeaways for investors from byjus downfall**
 1. **Focus on Quality:** Make sure the educational product or service actually helps students learn better. Don't just get excited about fast growth through buying other companies.
@@ -221,4 +262,4 @@ https://globalventuring.com/corporate/byjus-buys-epic-for-500m/
 4. **Slow and Steady Wins the Race:** It's better for a company to grow slowly and do things the right way than to grow too fast and make mistakes.
 5. **Prove It Works:** Make sure the product or service has been proven to help students achieve better results. Don't just rely on claims of making a positive impact.
 
-## Appendix
+## Thank You
