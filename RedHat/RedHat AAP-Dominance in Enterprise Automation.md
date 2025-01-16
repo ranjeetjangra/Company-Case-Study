@@ -144,7 +144,13 @@ Reference:
 - Pricing Strategies
 - Brand Building & Communication
 - Customer/Buyer Persona's
-- Conceptual Maps
+- perceptual Maps
+
+Reference:
+- Subscription Model https://access.redhat.com/articles/6057451
+- How to obtain subscription manifest https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.4/html/automation_controller_user_guide/controller-managing-subscriptions#controller-managing-subscriptions
+- Deployment Model and Pricing Model https://connect.redhat.com/sites/default/files/2022-01/Red_Hat_CCSP_Program_Guide_January_2022.pdf
+
 
 ## Operations & Technology
 - Production Process & Supply Chain
