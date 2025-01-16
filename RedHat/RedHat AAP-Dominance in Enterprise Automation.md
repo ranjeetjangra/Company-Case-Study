@@ -15,11 +15,13 @@ By the end of this case study you will be able to get answers for the following 
 RedHat's story begins in 1993 with the merger of two companies:
 - ACC Corporation: A catalog business selling Linux and Unix software accessories.
 - Red Hat Software: A company founded by Marc Ewing, known for its Linux distribution, "Red Hat Linux."
+
 This merger laid the foundation for RedHat as a prominent player in the open-source software world.
 Red Hat leaders apply open source below principles to their management styles.
 - Open exchange
 - Transparency
 - Meritocracy
+
 The Red Hat business model is based on an open source ecosystem, where collaborative development occurs within a community of professionals focused on providing quality assurance, testing and customer support.
 - October, 2018, IBM acquired Red Hat for $34 billion. Red Hat became a business unit of IBM's Hybrid Cloud team, while continuing to preserve the independence and neutrality of Red Hat's open source development heritage.
 - September 2019, Redhat introduced the new product "Ansible Automation Platform" a new offering that combines the simple and powerful Ansible solutions with new capabilities for cross-team collaboration, governance and analytics, resulting in a platform for building and operating automation at scale. Along with the Automation platform Redhat introduced Ansible Content Collections,Automation Hub and Automation Analytics.
