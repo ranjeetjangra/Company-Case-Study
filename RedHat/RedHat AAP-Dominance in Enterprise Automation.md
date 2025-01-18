@@ -235,10 +235,52 @@ Red Hat Ansible Automation Platform (AAP) employs a robust sales and distributio
 - 2. **SEO and Ads:** Online campaigns target IT decision-makers searching for automation solutions.
 - 3. **Social Media & Community Engagement:** Active presence in forums, LinkedIn, and Twitter to engage users and developers.
 
-- Pricing Strategies
-- Brand Building & Communication
-- Customer/Buyer Persona's
-- perceptual Maps
+### Pricing Strategies
+
+**Subscription Types**
+
+**Standard Subscription:**
+
+1. Manage any size environment
+2. Enterprise 8x5 support and SLA (As per below Severity Level Definitions )
+3. Maintenance and upgrades included
+**Severity Level Definitions**
+
+Redhat follows below Severity level definitions
+
+![Severity Level Definitions](Severity_Level_Definitions_Redhat_Ansible_Automation_Platform.JPG)
+
+**Premium Subscription**
+- Manage any size environment, including mission-critical environments
+- Premium 24x7 support and SLA
+- Maintenance and upgrades included (As per above Severity Level Definitions )
+
+While requesting for any redhat subscription user need to fill the  subscriptions manifest .
+Customer needs to specify the number of entitlements or managed nodes to put in the manifest file. This enables you to split up a subscription, for example: 400 nodes on a development cluster and 600 nodes for the production cluster, out of a 1000 node subscription. Manifest files can be easily exported and imported.
+
+**Customer/Buyer Persona's**
+
+1. **Maker:** Maker typically likes: Power Training, labs, lightning talks, breakout sessions, keynotes, expo hall.
+These are companies focused on building, deploying, and customizing automation solutions for their unique internal needs.
+e.g. Startups in the FinTech industry like Plaid or Stripe, Game development companies like Epic Games
+
+2. **Amplifier:** Amplifier typically likes: labs, lightning talks, expo hall, breakout sessions, keynotes
+These companies utilize automation to enhance existing processes, aiming to achieve operational excellence by scaling and optimizing their workflows. e.g. Manufacturing giants like Siemens or General Electric (GE) which implement automation to improve factory operations, Retail chains like Walmart automating supply chain and inventory management.
+
+3. **Multiplier:** Multiplier typically likes: Briefing Center, panels, keynotes, breakout sessions, expo hall
+These organizations are leaders in driving automation adoption across multiple teams or business units, often creating a culture of automation within the company.e.g. Large IT service companies like TCS, Infosys, or Cognizant, promoting automation across their diverse client portfolios. Global technology leaders like Dell or Hewlett Packard Enterprise (HPE), which use automation to scale IT operations globally.
+
+4. **Catalyst:**  Catalyst typically likes: roundtable discussions, panels, keynotes, Briefing Center, expo hall, evening receptions
+These are innovators and early adopters who experiment with automation in cutting-edge ways, inspiring others within their industry.
+e.g. Tech pioneers like Tesla, automating processes for software updates, energy solutions, and production workflows.Space companies like SpaceX, leveraging automation for mission-critical tasks.
+
+5. **Connector:** Connectors typically likes: partner ecosystem keynote, expo hall, breakout sessions, sponsored events, Briefing Center. These organizations actively share their automation experiences, contribute to open source, and collaborate within the community to drive collective progress. e.g. Open-source contributors like Canonical or HashiCorp, which thrive on community collaboration and knowledge sharing.
+
+
+**perceptual Maps**
+
+-------- Pending ---------
+
 
 Reference:
 - Subscription Model https://access.redhat.com/articles/6057451
