@@ -202,7 +202,39 @@ Reference
 
 ## Marketing & Sales
 - Marketing Mix (4Ps or 7Ps)
-- Sales Channels & Distribution
+
+### Sales Channels & Distribution**
+
+Red Hat Ansible Automation Platform (AAP) employs a robust sales and distribution strategy to reach enterprises and organizations globally.
+
+**key sales and distribution channels**
+
+1. **Direct Sales**
+**Enterprise Account Managers:** Red Hat employs a dedicated sales force to work directly with large enterprises, providing tailored solutions.Benefits of this sales method are Customized demonstrations, Proof of Concepts (PoCs), and workshops to showcase value and Focus on long-term subscription renewals and customer success.
+
+2. **Partner Ecosystem**
+- Channel Partners: Red Hat collaborates with a global network of Value-Added Resellers (VARs), Managed Service Providers (MSPs), and distributors.Partners like Value-Added Resellers (VARs) and Independent Software Vendors (ISVs) provide Ansible solutions as part of integrated offerings, making it easier to adopt.Red Hat Certified Partners deliver pre-packaged automation solutions.Partners offer managed services, making Ansible appealing to customers without in-house expertise. various VARs of RedHat are CDW,Softchoice,SHI International,Insight,Zones,NTT Data,XenonStack etc. NTT and XenonStack are Asia based VARs.
+
+3. **Events and Webinars**
+- **Red Hat Summit:** Annual conferences showcase the capabilities of Ansible Automation Platform alongside other Red Hat offerings.
+
+- Redhat Summit https://www.redhat.com/en/summit showcase how Redhat attracting registrations for various Persona like: 
+
+1. **Maker:** Maker typically likes: Power Training, labs, lightning talks, breakout sessions, keynotes, expo hall
+2. **Amplifier:** Amplifier typically likes: labs, lightning talks, expo hall, breakout sessions, keynotes
+3. **Multiplier:** Multiplier typically likes: Briefing Center, panels, keynotes, breakout sessions, expo hall
+4. **Catalyst:**  Catalyst typically likes: roundtable discussions, panels, keynotes, Briefing Center, expo hall, evening receptions
+5. **Connector:** Connectors typically likes: partner ecosystem keynote, expo hall, breakout sessions, sponsored events, Briefing Center
+
+**Other Secondary Sales Methods**
+
+- **Online Marketplace :** Making the Ansible AAP available at various Cloud Marketplaces like AWS Marketplace,Microsoft Azure Marketplace, Google Cloud Marketplace
+- **Technology Alliances :** Collaborations with technology vendors (e.g., Cisco, VMware, IBM, and SAP) ensure compatibility and drive co-selling opportunities.
+- **Digital Marketing** : Redhat uses various digital marketing techniques like:
+- 1. **Content Marketing:** Blogs, whitepapers, and case studies showcasing Ansible Automation use cases.
+- 2. **SEO and Ads:** Online campaigns target IT decision-makers searching for automation solutions.
+- 3. **Social Media & Community Engagement:** Active presence in forums, LinkedIn, and Twitter to engage users and developers.
+
 - Pricing Strategies
 - Brand Building & Communication
 - Customer/Buyer Persona's
