@@ -421,7 +421,7 @@ According to IDC research, organizations standardizing operations with Ansible A
 - Time to market: They reduced lead time by 55%, going from 6 months to less than 3 months to get a new feature to the target user.
 - They also achieved an 85% reduction in error rate and saved 4,700 developer hours
 
-- Reference:
+### Reference:
 - Mutua Madrileña https://www.businesswire.com/news/home/20240606091680/en/
 - four million customer automated https://www.helpnetsecurity.com/2019/09/13/red-hat-ansible-automation-2/
 - AAP customer testimonials https://www.redhat.com/en/technologies/management/ansible/insights-reviews-testimonials
