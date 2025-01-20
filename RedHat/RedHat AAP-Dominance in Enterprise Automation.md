@@ -244,6 +244,7 @@ Red Hat Ansible Automation Platform (AAP) employs a robust sales and distributio
 1. Manage any size environment
 2. Enterprise 8x5 support and SLA (As per below Severity Level Definitions )
 3. Maintenance and upgrades included
+
 **Severity Level Definitions**
 
 Redhat follows below Severity level definitions
@@ -276,16 +277,27 @@ e.g. Tech pioneers like Tesla, automating processes for software updates, energy
 
 5. **Connector:** Connectors typically likes: partner ecosystem keynote, expo hall, breakout sessions, sponsored events, Briefing Center. These organizations actively share their automation experiences, contribute to open source, and collaborate within the community to drive collective progress. e.g. Open-source contributors like Canonical or HashiCorp, which thrive on community collaboration and knowledge sharing.
 
-
 **perceptual Maps**
 
--------- Pending ---------
+**Ease of Use vs Scope**
+
+Red Hat Ansible Automation Platform placed in the High Scope, Moderate Ease of Use quadrant.
+Ansible is known for its powerful automation capabilities and extensive library of modules. However, it can have a steeper learning curve compared to some competitors.
+
+![Perceptual Map Redhat AAP - Ease of use vs Scope](Perceptual_map_Ease_of_use_vs_Scope.jpg)
+
+**Innocation & Future Proofing vs Current Capabilities**
+
+Red Hat Ansible Automation Platform: Ansible's focus on open-source, strong community support, and continuous development positions it as a platform that is likely to adapt and evolve with future IT trends. Its current capabilities are also robust and widely recognized. Redhat AAP has been placed in High Innovation & Future-Proofing, High Current Capabilities:
+
+![Perceptual Map Redhat AAP - Innocation & Future Proofing vs Current Capabilities](Perceptual_map_Innovation_vs_capabilities.jpg))
 
 
 Reference:
 - Subscription Model https://access.redhat.com/articles/6057451
 - How to obtain subscription manifest https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.4/html/automation_controller_user_guide/controller-managing-subscriptions#controller-managing-subscriptions
 - Deployment Model and Pricing Model https://connect.redhat.com/sites/default/files/2022-01/Red_Hat_CCSP_Program_Guide_January_2022.pdf
+- Legacy IT investments in the public sector https://www.redhat.com/en/resources/accelerate-public-sector-digital-transformation-red-hat-ansible-automation-platform
 
 
 ## Operations & Technology
