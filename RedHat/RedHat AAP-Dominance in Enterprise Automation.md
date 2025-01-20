@@ -26,7 +26,7 @@ The Red Hat business model is based on an open source ecosystem, where collabora
 - October, 2018, IBM acquired Red Hat for $34 billion. Red Hat became a business unit of IBM's Hybrid Cloud team, while continuing to preserve the independence and neutrality of Red Hat's open source development heritage.
 - September 2019, Redhat introduced the new product "Ansible Automation Platform" a new offering that combines the simple and powerful Ansible solutions with new capabilities for cross-team collaboration, governance and analytics, resulting in a platform for building and operating automation at scale. Along with the Automation platform Redhat introduced Ansible Content Collections,Automation Hub and Automation Analytics.
 
-References:
+**References:**
 - https://www.redhat.com/en/about/company/leadership#:~:text=Red%20Hat%C2%AE%20leaders%20apply,how%20we%20continue%20to%20thrive.
 - https://www.techtarget.com/searchdatacenter/definition/Red-Hat#:~:text=The%20Red%20Hat%20business%20model,assurance%2C%20testing%20and%20customer%20support.
 - https://www.redhat.com/en/blog/introducing-red-hat-ansible-automation-platform
@@ -52,7 +52,7 @@ Before the dedicated automation and orchestration platforms evolved, organizatio
 
 Limited Scope: Cloud providers offered basic tools for managing resources within their respective platforms, but these tools often lacked the flexibility and integration capabilities required for complex automation scenarios.
 
-References:
+**References:**
 - https://www.site24x7.com/learn/data-silos-multi-cloud.html
 - https://www.megaport.com/blog/how-to-automate-and-orchestrate-your-network-effectively/
 
@@ -128,7 +128,7 @@ Healthcare: Small clinics, private practices
 4. DevOps and CI/CD: Automation plays a crucial role in DevOps and continuous integration/continuous delivery (CI/CD) pipelines, enabling faster and more frequent software releases.
 5. Edge Computing: The emergence of edge computing requires automation solutions that can manage and orchestrate resources at the edge of the network.
 
-Reference:
+**Reference:**
 - https://www.cisco.com/c/en/us/solutions/collateral/executive-perspectives/network-automation-strategy-wp.html
 
 ## Product Analysis
@@ -196,13 +196,13 @@ https://medium.com/@ranjeetjangra/red-hat-ansible-automation-platform-lab-3-writ
 - LAB-8: Red Hat Ansible Automation Platform LAB: Ansible Roles
 https://medium.com/@ranjeetjangra/redhat-ansible-automation-platform-lab-ansible-roles-e97235660c6c
 
-Reference
+**Reference**
 - Product Features https://www.youtube.com/watch?v=7GJjhZoYEus
 - Hands-on Labs https://medium.com/techbeatly/red-hat-ansible-automation-platform-ultimate-hands-on-labs-3cdef1a9e935
 
 ## Marketing & Sales
 
-### Sales Channels & Distribution**
+### Sales Channels & Distribution
 
 Red Hat Ansible Automation Platform (AAP) employs a robust sales and distribution strategy to reach enterprises and organizations globally.
 
@@ -276,7 +276,7 @@ e.g. Tech pioneers like Tesla, automating processes for software updates, energy
 
 5. **Connector:** Connectors typically likes: partner ecosystem keynote, expo hall, breakout sessions, sponsored events, Briefing Center. These organizations actively share their automation experiences, contribute to open source, and collaborate within the community to drive collective progress. e.g. Open-source contributors like Canonical or HashiCorp, which thrive on community collaboration and knowledge sharing.
 
-**perceptual Maps**
+## Perceptual Maps
 
 **Ease of Use vs Scope**
 
@@ -292,7 +292,7 @@ Red Hat Ansible Automation Platform: Ansible's focus on open-source, strong comm
 ![Perceptual Map Redhat AAP - Innocation & Future Proofing vs Current Capabilities](Perceptual_map_Innovation_vs_capabilities.jpg))
 
 
-Reference:
+### Reference:
 - Subscription Model https://access.redhat.com/articles/6057451
 - How to obtain subscription manifest https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.4/html/automation_controller_user_guide/controller-managing-subscriptions#controller-managing-subscriptions
 - Deployment Model and Pricing Model https://connect.redhat.com/sites/default/files/2022-01/Red_Hat_CCSP_Program_Guide_January_2022.pdf
@@ -398,7 +398,7 @@ Red Hat AAP aligns with **Market Penetration** as its primary growth strategy. H
 - Improving customer retention: Providing strong customer support, offering regular updates and enhancements, and building long-term relationships with customers.
 - Increasing product usage: Encouraging deeper adoption of AAP's features and functionalities within existing customer environments.
 
-- Reference
+### Reference
 - Differentiation Strategy https://nuventure.medium.com/unlocking-the-power-of-automation-with-red-hat-ansible-automation-platform-bcf44b2ec844#:~:text=Modules%3A%20Ansible%20provides%20a%20vast,system%20provisioning%2C%20configuration%20management%2C%20and
 
 ## Customer success Stories 
