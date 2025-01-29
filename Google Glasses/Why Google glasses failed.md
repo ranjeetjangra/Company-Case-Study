@@ -1,0 +1,2 @@
+- Despite of huge investment in cutting edge technologies, Google Glasses failed to attract customers. Price was quite high, glasses were heavy and to be worn all the time. 
+- The product solved what engineers thought people needed, not what exactly customer wanted.
