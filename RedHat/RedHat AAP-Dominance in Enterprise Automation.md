@@ -26,7 +26,7 @@ The Red Hat business model is based on an open source ecosystem, where collabora
 - October, 2018, IBM acquired Red Hat for $34 billion. Red Hat became a business unit of IBM's Hybrid Cloud team, while continuing to preserve the independence and neutrality of Red Hat's open source development heritage.
 - September 2019, Redhat introduced the new product "Ansible Automation Platform" a new offering that combines the simple and powerful Ansible solutions with new capabilities for cross-team collaboration, governance and analytics, resulting in a platform for building and operating automation at scale. Along with the Automation platform Redhat introduced Ansible Content Collections,Automation Hub and Automation Analytics.
 
-References:
+**References:**
 - https://www.redhat.com/en/about/company/leadership#:~:text=Red%20Hat%C2%AE%20leaders%20apply,how%20we%20continue%20to%20thrive.
 - https://www.techtarget.com/searchdatacenter/definition/Red-Hat#:~:text=The%20Red%20Hat%20business%20model,assurance%2C%20testing%20and%20customer%20support.
 - https://www.redhat.com/en/blog/introducing-red-hat-ansible-automation-platform
@@ -52,7 +52,7 @@ Before the dedicated automation and orchestration platforms evolved, organizatio
 
 Limited Scope: Cloud providers offered basic tools for managing resources within their respective platforms, but these tools often lacked the flexibility and integration capabilities required for complex automation scenarios.
 
-References:
+**References:**
 - https://www.site24x7.com/learn/data-silos-multi-cloud.html
 - https://www.megaport.com/blog/how-to-automate-and-orchestrate-your-network-effectively/
 
@@ -128,7 +128,7 @@ Healthcare: Small clinics, private practices
 4. DevOps and CI/CD: Automation plays a crucial role in DevOps and continuous integration/continuous delivery (CI/CD) pipelines, enabling faster and more frequent software releases.
 5. Edge Computing: The emergence of edge computing requires automation solutions that can manage and orchestrate resources at the edge of the network.
 
-Reference:
+**Reference:**
 - https://www.cisco.com/c/en/us/solutions/collateral/executive-perspectives/network-automation-strategy-wp.html
 
 ## Product Analysis
@@ -196,14 +196,13 @@ https://medium.com/@ranjeetjangra/red-hat-ansible-automation-platform-lab-3-writ
 - LAB-8: Red Hat Ansible Automation Platform LAB: Ansible Roles
 https://medium.com/@ranjeetjangra/redhat-ansible-automation-platform-lab-ansible-roles-e97235660c6c
 
-Reference
+**Reference**
 - Product Features https://www.youtube.com/watch?v=7GJjhZoYEus
 - Hands-on Labs https://medium.com/techbeatly/red-hat-ansible-automation-platform-ultimate-hands-on-labs-3cdef1a9e935
 
 ## Marketing & Sales
-- Marketing Mix (4Ps or 7Ps)
 
-### Sales Channels & Distribution**
+### Sales Channels & Distribution
 
 Red Hat Ansible Automation Platform (AAP) employs a robust sales and distribution strategy to reach enterprises and organizations globally.
 
@@ -244,6 +243,7 @@ Red Hat Ansible Automation Platform (AAP) employs a robust sales and distributio
 1. Manage any size environment
 2. Enterprise 8x5 support and SLA (As per below Severity Level Definitions )
 3. Maintenance and upgrades included
+
 **Severity Level Definitions**
 
 Redhat follows below Severity level definitions
@@ -276,55 +276,153 @@ e.g. Tech pioneers like Tesla, automating processes for software updates, energy
 
 5. **Connector:** Connectors typically likes: partner ecosystem keynote, expo hall, breakout sessions, sponsored events, Briefing Center. These organizations actively share their automation experiences, contribute to open source, and collaborate within the community to drive collective progress. e.g. Open-source contributors like Canonical or HashiCorp, which thrive on community collaboration and knowledge sharing.
 
+## Perceptual Maps
 
-**perceptual Maps**
+**Ease of Use vs Scope**
 
--------- Pending ---------
+Red Hat Ansible Automation Platform placed in the High Scope, Moderate Ease of Use quadrant.
+Ansible is known for its powerful automation capabilities and extensive library of modules. However, it can have a steeper learning curve compared to some competitors.
+
+![Perceptual Map Redhat AAP - Ease of use vs Scope](Perceptual_map_Ease_of_use_vs_Scope.jpg)
+
+**Innocation & Future Proofing vs Current Capabilities**
+
+Red Hat Ansible Automation Platform: Ansible's focus on open-source, strong community support, and continuous development positions it as a platform that is likely to adapt and evolve with future IT trends. Its current capabilities are also robust and widely recognized. Redhat AAP has been placed in High Innovation & Future-Proofing, High Current Capabilities:
+
+![Perceptual Map Redhat AAP - Innocation & Future Proofing vs Current Capabilities](Perceptual_map_Innovation_vs_capabilities.jpg))
 
 
-Reference:
+### Reference:
 - Subscription Model https://access.redhat.com/articles/6057451
 - How to obtain subscription manifest https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.4/html/automation_controller_user_guide/controller-managing-subscriptions#controller-managing-subscriptions
 - Deployment Model and Pricing Model https://connect.redhat.com/sites/default/files/2022-01/Red_Hat_CCSP_Program_Guide_January_2022.pdf
+- Legacy IT investments in the public sector https://www.redhat.com/en/resources/accelerate-public-sector-digital-transformation-red-hat-ansible-automation-platform
 
-
-## Operations & Technology
-- Production Process & Supply Chain
-- Technology Infrastructure & Innovation
-- Operational Efficiency & Cost Optimization
-
-## Financial Analysis
-- Revenue Models & Profitability
-- Financial Statements & Ratios
-- Key Performance Indicators (KPIs)
-- Investment & Funding
 
 ## Competitive Analysis
-- Competitive Landscape & Benchmarking
-- SWOT Analysis of Competitors
-- Competitive Advantages & Disadvantages
+
+## Competitive Landscape & Benchmarking of Red Hat Ansible Automation Platform (AAP)
+
+**Key Competitors:**
+
+1. Microsoft Azure Automation: Cloud-based automation service integrated with Azure.   
+2. VMware vRealize Automation: Comprehensive platform for managing virtual and cloud environments.   
+3. Puppet Enterprise: Open-source automation platform focused on infrastructure as code.   
+4. Chef Automate: Platform for automating infrastructure and applications across hybrid and multi-cloud environments.  
+5. ServiceNow: ITSM platform with automation capabilities.   
+
+**Benchmarking Factors:**
+
+**Scope and Functionality:**
+
+- Breadth of Automation: Assess the range of tasks each platform can automate (provisioning, configuration, deployment, orchestration, etc.).   
+- Integration Capabilities: Evaluate how well each platform integrates with other tools, cloud providers, and existing 
+IT infrastructure.
+- Modularity and Extensibility: Consider the ease of adding custom modules, plugins, and integrations.
+
+**Ease of Use and User Experience:**
+
+- User Interface (UI): Evaluate the intuitiveness and user-friendliness of the platform's UI.
+- Learning Curve: Assess the time and effort required to learn and use the platform effectively.
+- Documentation and Support: Consider the quality and availability of documentation, training resources, and community support.
+
+**Scalability and Performance:**
+
+- Performance: Measure the speed and efficiency of automation tasks across different scales and workloads.
+- Scalability: Evaluate the platform's ability to handle growing automation needs and complex environments. 
+
+**Security and Compliance:**
+
+- Security Features: Assess the security measures in place to protect sensitive data and prevent unauthorized access.
+- Compliance Standards: Evaluate compliance with industry standards and regulations.
+
+**Total Cost of Ownership (TCO):**
+
+- Licensing Costs: Compare licensing models, pricing tiers, and potential costs.
+- Maintenance and Support Costs: Factor in costs for maintenance, upgrades, and support services.
+- Deployment and Integration Costs: Consider the costs associated with deployment, integration, and ongoing management.
 
 ## SWOT Analysis
-- Internal Strengths & Weaknesses
-- External Opportunities & Threats
+
+**Internal Strengths:**
+
+- Strong Open-Source Foundation: Ansible's open-source roots foster a large and active community, driving innovation and providing extensive resources.
+- Comprehensive Functionality: AAP offers a wide range of automation capabilities, covering infrastructure provisioning, application deployment, configuration management, and more.
+- Robust Ecosystem: A large and diverse ecosystem of partners provides complementary solutions, integrations, and support.
+- Strong Integration Capabilities: Seamlessly integrates with various cloud platforms, configuration management tools, and other IT systems.
+- Red Hat's Backing: Benefits from Red Hat's strong reputation, extensive enterprise support, and global reach.
+
+**Internal Weaknesses:**
+
+- Steeper Learning Curve: Compared to some competitors, Ansible can have a steeper learning curve for new users.
+- Limited GUI: While Ansible Tower provides a GUI, it might not be as user-friendly or intuitive as some other platforms.
+- Dependency on Python: Ansible is heavily reliant on Python, which can present challenges for organizations with limited Python expertise.
+
+**External Opportunities:**
+
+- Growing Demand for Automation: The market for automation platforms is rapidly expanding due to digital transformation, cloud adoption, and increasing IT complexity.
+- Expanding into New Markets: AAP can expand into new markets like DevOps, security automation, and edge computing.
+- Integration with Emerging Technologies: Integrating with AI/ML, IoT, and other emerging technologies can enhance automation capabilities and create new opportunities.
+
+**External Threats:**
+
+- Competition: Intense competition from other automation platforms like Azure Automation, VMware vRealize Automation, Puppet Enterprise, and Chef Automate.
+- Rapid Technological Change: The IT landscape is constantly evolving, requiring continuous innovation and adaptation to stay competitive.
+- Security Risks: Automation platforms are critical infrastructure, making them targets for cyberattacks.
 
 ## Strategic Analysis
-- Porter's Generic Strategies (Cost Leadership, Differentiation, Focus)   
-- Blue Ocean Strategy
-- Growth Strategies (Market Penetration, Market Development, Product Development, Diversification)
 
-## Data Analysis
-- Data Collection & Sources
-- Data Visualization & Interpretation
-- Statistical Analysis & Modeling
+### Porter's Strategy Alignment
 
-## Recommendations & Conclusions
-- Strategic Recommendations & Action Plans
-- Implementation Plan & Timeline
-- Key Learnings & Insights
+Red Hat Ansible Automation Platform (AAP) primarily aligns with Differentiation in Porter's generic strategies. Here's why:
 
-## References
-- List of all sources used
+**Focus on Differentiation:**
+- Unique Value Proposition: AAP differentiates itself through its open-source foundation, strong community support, extensive ecosystem of integrations, and focus on automation across a wide range of IT domains.
+- Value-Added Features: AAP offers features like Ansible Tower, a web-based interface for managing and orchestrating automation tasks, and a vast library of pre-built modules and plugins (Collections), which enhance its value proposition.   
+- Premium Support: Red Hat provides enterprise-grade support and maintenance, adding a layer of value for customers seeking robust support and stability.
 
-## Appendices
-- Supporting Documents (e.g., financial statements, market research reports, interviews)
+**Why not Cost Leadership or Focus:**
+
+- Cost Leadership: While Red Hat offers competitive pricing, it doesn't primarily focus on being the lowest-cost option in the market.
+- Focus (Niche): Although AAP can be used in specific niches, it's not solely focused on a particular industry or segment. It aims to be a comprehensive automation platform for a broad range of enterprises.
+
+  
+### Growth Strategies Alignment
+
+**(Market Penetration, Market Development, Product Development, Diversification)**
+
+Red Hat AAP aligns with **Market Penetration** as its primary growth strategy. Here's why:
+
+- Market Penetration: This strategy focuses on increasing market share within existing markets with existing products. Red Hat AAP achieves this by:
+- Targeting existing customers: Expanding usage of AAP within existing customer organizations by encouraging adoption across different IT teams and departments.
+- Improving customer retention: Providing strong customer support, offering regular updates and enhancements, and building long-term relationships with customers.
+- Increasing product usage: Encouraging deeper adoption of AAP's features and functionalities within existing customer environments.
+
+### Reference
+- Differentiation Strategy https://nuventure.medium.com/unlocking-the-power-of-automation-with-red-hat-ansible-automation-platform-bcf44b2ec844#:~:text=Modules%3A%20Ansible%20provides%20a%20vast,system%20provisioning%2C%20configuration%20management%2C%20and
+
+## Customer success Stories 
+
+Red Hat Ansible Automation Platform (AAP) has been instrumental in enhancing operational efficiency across various organizations. Below is a statistical analysis and data visualization based on customer success stories:
+
+1. Reduction in IT Incidents:
+
+Mutua Madrileña, a leading Spanish insurance group, integrated Event-Driven Ansible into their operations, resulting in a 50% reduction in IT incidents.
+
+2. Increase in Automated Systems:
+
+As of September 2019, over four million customer systems worldwide were automated using Red Hat Ansible Automation, indicating a substantial adoption rate and trust in the platform's capabilities.
+
+3. Return on Investment (ROI):
+
+According to IDC research, organizations standardizing operations with Ansible Automation Platform experienced a 668% three-year ROI, highlighting the platform's significant financial benefits.
+
+4. Mat Jovanovic, Corporate Cloud Strategy Director at Mapfre, shared the following statistics about their automation journey with Red Hat Ansible Automation Platform:
+- Time to market: They reduced lead time by 55%, going from 6 months to less than 3 months to get a new feature to the target user.
+- They also achieved an 85% reduction in error rate and saved 4,700 developer hours
+
+### Reference:
+- Mutua Madrileña https://www.businesswire.com/news/home/20240606091680/en/
+- four million customer automated https://www.helpnetsecurity.com/2019/09/13/red-hat-ansible-automation-2/
+- AAP customer testimonials https://www.redhat.com/en/technologies/management/ansible/insights-reviews-testimonials
+- Mat Jovanovic story at Mapfre https://www.youtube.com/watch?v=t1cLRQ9HuCY&t=411s
