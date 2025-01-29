@@ -1,0 +1,2 @@
+- Saled through technology retailers not educational book stores
+- Kindle offered a integrated experience of hardware, software, service and content.
