@@ -1,0 +1,1 @@
+How DBS Bank singapore went with ahead with digitalisation journey.
